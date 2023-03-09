@@ -2,7 +2,7 @@
 
 echo "******************************"
 echo "                              "
-echo "Welcome To Dev Safia Tutorial."
+echo "Sanju"
 echo "                              "
 echo "******************************"
 
