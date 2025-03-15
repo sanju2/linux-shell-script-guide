@@ -1,0 +1,15 @@
+System Information:
+-------------------
+Hostname: lasantha
+OS Name: 
+OS Version: 
+IP Address: 
+Default Gateway: 
+DNS Servers: 
+
+Memory:
+
+Disk Space:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  119G   78G   41G  66% /
+D:                    931G  545G  386G  59% /d
